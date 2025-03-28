@@ -1,0 +1,17 @@
+
+ul { list-style-type: none; }
+#home {
+    background-image: url("../images/island.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; /* Optional: prevents tiling */
+    min-height: 100vh;
+}
+
+.h-100-vh{
+    min-height: 100vh;
+}
+
+.bg-primary{
+    background-color: #c7a578!important;
+}
